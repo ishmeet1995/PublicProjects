@@ -1,0 +1,6 @@
+{
+  "DefaultOCREngine": "UiPath.OmniPage.Activities.OmniPageOCR, UiPath.OmniPage.Activities",
+  "UiPath.OmniPage.Activities.OmniPageOCR.Scale": "1",
+  "UiPath.OmniPage.Activities.OmniPageOCR.Language": "",
+  "UiPath.OmniPage.Activities.OmniPageOCR.Profile": "None"
+}
