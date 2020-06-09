@@ -1,0 +1,1 @@
+Inside Mongo Interaction Method 1.
