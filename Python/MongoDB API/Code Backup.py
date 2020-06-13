@@ -8,10 +8,10 @@ app = Flask(__name__)
 class MongoAPI:
     def __init__(self, data):
         log.basicConfig(level=log.DEBUG, format='%(asctime)s %(levelname)s:\n%(message)s\n')
-        self.client = MongoClient("mongodb://localhost:27017/")  # When only Mongo DB is running on Docker.
+        # self.client = MongoClient("mongodb://localhost:27017/")  # When only Mongo DB is running on Docker.
         # self.client = MongoClient("mongodb://mymongo:27017/")     # When both Mongo and This application is running on
                                                                     # Docker and we are using Docker Compose
-        # self.client = MongoClient("mongodb://172.18.0.1:27017/")     # When both Mongo and This application is running
+        self.client = MongoClient("mongodb://172.18.0.1:27017/")     # When both Mongo and This application is running
                                                                     # on Docker
         database = data['database']
         collection = data['collection']
@@ -37,13 +37,13 @@ class MongoAPI:
         log.info('Updating Data')
         filt = self.data['Filter']
         updated_data = {"$set": self.data['DataToBeUpdated']}
-        response = self.collection.update_one(filt, updated_data)
+        response = self.collection.update_one({'first_name': 'Ishmeet'}, updated_data)
         output = {'Status': 'Successfully Updated' if response.modified_count > 0 else "Nothing was updated."}
         return output
 
     def delete(self, data):
         log.info('Deleting Data')
-        filt = data['Filter']
+        filt = data['Document']
         response = self.collection.delete_one(filt)
         output = {'Status': 'Successfully Deleted' if response.deleted_count > 0 else "Document not found."}
         return output
@@ -54,6 +54,7 @@ def base():
     return Response(response=json.dumps({"Status": "UP"}),
                     status=200,
                     mimetype='application/json')
+
 
 
 @app.route('/mongodb', methods=['GET'])
@@ -68,6 +69,8 @@ def mongo_read():
     return Response(response=json.dumps(response),
                     status=200,
                     mimetype='application/json')
+
+
 
 
 @app.route('/mongodb', methods=['POST'])
@@ -86,7 +89,7 @@ def mongo_write():
 @app.route('/mongodb', methods=['PUT'])
 def mongo_update():
     data = request.json
-    if data is None or data == {} or 'Filter' not in data:
+    if data is None or data == {} or 'Document' not in data:
         return Response(response=json.dumps({"Error": "Please provide connection information"}),
                         status=400,
                         mimetype='application/json')
@@ -100,7 +103,7 @@ def mongo_update():
 @app.route('/mongodb', methods=['DELETE'])
 def mongo_delete():
     data = request.json
-    if data is None or data == {} or 'Filter' not in data:
+    if data is None or data == {} or 'Document' not in data:
         return Response(response=json.dumps({"Error": "Please provide connection information"}),
                         status=400,
                         mimetype='application/json')
