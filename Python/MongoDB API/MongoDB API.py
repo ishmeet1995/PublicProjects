@@ -8,11 +8,10 @@ app = Flask(__name__)
 class MongoAPI:
     def __init__(self, data):
         log.basicConfig(level=log.DEBUG, format='%(asctime)s %(levelname)s:\n%(message)s\n')
-        self.client = MongoClient("mongodb://localhost:27017/")  # When only Mongo DB is running on Docker.
-        # self.client = MongoClient("mongodb://mymongo:27017/")     # When both Mongo and This application is running on
+        # self.client = MongoClient("mongodb://localhost:27017/")  # When only Mongo DB is running on Docker.
+        self.client = MongoClient("mongodb://mymongo_1:27017/")     # When both Mongo and This application is running on
                                                                     # Docker and we are using Docker Compose
-        # self.client = MongoClient("mongodb://172.18.0.1:27017/")     # When both Mongo and This application is running
-                                                                    # on Docker
+
         database = data['database']
         collection = data['collection']
         cursor = self.client[database]
