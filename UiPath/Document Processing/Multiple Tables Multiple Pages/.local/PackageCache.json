@@ -1,0 +1,1114 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.DocumentUnderstanding.ML.Activities",
+        "Version": "1.2.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentprocessing.contracts/1.6.1\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.AiFabricClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.OrchestratorClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities/1.2.1\\lib/net461/UiPath.DocumentUnderstanding.ML.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.9.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities/2.9.0-preview\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities/2.9.0-preview\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities/2.9.0-preview\\lib/net461/UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities\\2.9.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.IntelligentOCR.Activities",
+        "Version": "4.7.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge/2.2.5\\lib/AForge.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.genetic/2.2.5\\lib/AForge.Genetic.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.imaging/2.2.5\\lib/AForge.Imaging.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.math/2.2.5\\lib/AForge.Math.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.neuro/2.2.5\\lib/AForge.Neuro.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\fsharp.core/4.7.1\\lib/net45/FSharp.Core.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.Commons.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NClassify.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib/0.2.1.1\\lib/net40/IvanAkcheurov.NTextCat.Lib.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\mathnet.numerics/4.5.1\\lib/net461/MathNet.Numerics.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.io.compression/4.3.0\\lib/net46/System.IO.Compression.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation/4.3.0\\lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/CefSharp.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/UiPath.CEFSharpBundle.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libEGL.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/libcef.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/msvcp140.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle/1.2.0\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentprocessing.contracts/1.6.1\\lib/net461/UiPath.DocumentProcessing.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.IntelligentOCR.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ClassificationStation.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Data.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Language.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Localization.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.OCR.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.PDF.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Telemetry.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.Utils.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities/4.7.0-preview\\lib/net461/UiPath.SmartData.WPF.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.telemetry.client/1.2.20\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.wordstonumbers/1.0.0-preview\\lib/netstandard2.0/Numsense.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OmniPage.Activities",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.OmniPage.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.OmniPage.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.Vision.OmniPage.Core.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities/1.5.0\\lib/net461/UiPath.Vision.OmniPage.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppHelper.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppProductConfig.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/AppUtils.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Bnt.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/CRX.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Defaults.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx3.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx4.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx5.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/FireWrx6.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Firewrx.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Formatter.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/ICDLLW32.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/ICHUNW32.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/IF_PNG.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/KernelAPI.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/LEditor.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/LecsoMgr.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/MiddleEarth.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor3.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor4.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor5.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Mor6.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/MorIF.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.ArgTypes.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.CAPI.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Nuance.OmniPage.CSDK.Objects.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/PreRendering.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecAPIPlus.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecDiag.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/RecPDFNet.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Rendering.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/Rendering2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SPDFLib.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SkinnedClasses.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/SkinnedWindows.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/UiPath.OmniPage.Bundle.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/atm2lll.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/jp2k_kdu_apps_vnew.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/kdu_vnewR.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/msvcp140.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext3.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext4.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext5.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/pccext6.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/rndsdawg.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/rndsinso.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr2.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr3.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr4.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr5.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle/1.0.2\\lib/net452/xocr6.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Persistence.Activities",
+        "Version": "1.1.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities/1.1.4\\lib/net461/UiPath.Orchestrator.Service.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities/1.1.4\\lib/net461/UiPath.Persistence.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities/1.1.4\\lib/net461/UiPath.Persistence.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities/1.1.4\\lib/net461/UiPath.Persistence.Orchestrator.Client.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities\\1.1.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "20.6.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities/20.6.1-preview\\lib/net461/UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview"
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AForge": {
+      "Id": "AForge",
+      "Version": "2.2.5",
+      "Dependencies": []
+    },
+    "AForge.Genetic": {
+      "Id": "AForge.Genetic",
+      "Version": "2.2.5",
+      "Dependencies": [
+        {
+          "Item1": "AForge",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "AForge.Math",
+          "Item2": "[2.2.5, )"
+        }
+      ]
+    },
+    "AForge.Imaging": {
+      "Id": "AForge.Imaging",
+      "Version": "2.2.5",
+      "Dependencies": [
+        {
+          "Item1": "AForge",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "AForge.Math",
+          "Item2": "[2.2.5, )"
+        }
+      ]
+    },
+    "AForge.Math": {
+      "Id": "AForge.Math",
+      "Version": "2.2.5",
+      "Dependencies": [
+        {
+          "Item1": "AForge",
+          "Item2": "[2.2.5, )"
+        }
+      ]
+    },
+    "AForge.Neuro": {
+      "Id": "AForge.Neuro",
+      "Version": "2.2.5",
+      "Dependencies": [
+        {
+          "Item1": "AForge",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "AForge.Math",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "AForge.Genetic",
+          "Item2": "[2.2.5, )"
+        }
+      ]
+    },
+    "BitMiracle.Docotic.Pdf": {
+      "Id": "BitMiracle.Docotic.Pdf",
+      "Version": "5.10.9957",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "FSharp.Core": {
+      "Id": "FSharp.Core",
+      "Version": "4.7.1",
+      "Dependencies": []
+    },
+    "IvanAkcheurov.NTextCat.Lib": {
+      "Id": "IvanAkcheurov.NTextCat.Lib",
+      "Version": "0.2.1.1",
+      "Dependencies": []
+    },
+    "MathNet.Numerics": {
+      "Id": "MathNet.Numerics",
+      "Version": "4.5.1",
+      "Dependencies": []
+    },
+    "Microsoft.AspNet.SignalR.Client": {
+      "Id": "Microsoft.AspNet.SignalR.Client",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.21",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "Microsoft.Xaml.Behaviors.Wpf": {
+      "Id": "Microsoft.Xaml.Behaviors.Wpf",
+      "Version": "1.0.1",
+      "Dependencies": []
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "11.0.2",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "Polly": {
+      "Id": "Polly",
+      "Version": "7.1.0",
+      "Dependencies": []
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.2.0",
+      "Dependencies": []
+    },
+    "System.Collections.Immutable": {
+      "Id": "System.Collections.Immutable",
+      "Version": "1.5.0",
+      "Dependencies": []
+    },
+    "System.IO.Compression": {
+      "Id": "System.IO.Compression",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Runtime.InteropServices.RuntimeInformation": {
+      "Id": "System.Runtime.InteropServices.RuntimeInformation",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Threading.Tasks.Dataflow": {
+      "Id": "System.Threading.Tasks.Dataflow",
+      "Version": "4.10.0",
+      "Dependencies": []
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath.CefSharpBundle": {
+      "Id": "UiPath.CefSharpBundle",
+      "Version": "1.2.0",
+      "Dependencies": []
+    },
+    "UiPath.DocumentProcessing.Contracts": {
+      "Id": "UiPath.DocumentProcessing.Contracts",
+      "Version": "1.6.1",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.DocumentUnderstanding.ML.Activities": {
+      "Id": "UiPath.DocumentUnderstanding.ML.Activities",
+      "Version": "1.2.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.DocumentProcessing.Contracts",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.21, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "BitMiracle.Docotic.Pdf",
+          "Item2": "[5.10.9957, )"
+        },
+        {
+          "Item1": "Polly",
+          "Item2": "[7.1.0, )"
+        }
+      ]
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.9.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.FormActivityLibrary.Contracts": {
+      "Id": "UiPath.FormActivityLibrary.Contracts",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "UiPath.IntelligentOCR.Activities": {
+      "Id": "UiPath.IntelligentOCR.Activities",
+      "Version": "4.7.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.6.0, )"
+        },
+        {
+          "Item1": "UiPath.DocumentProcessing.Contracts",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "UiPath.CefSharpBundle",
+          "Item2": "[1.2.0, )"
+        },
+        {
+          "Item1": "Microsoft.Xaml.Behaviors.Wpf",
+          "Item2": "[1.0.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "IvanAkcheurov.NTextCat.Lib",
+          "Item2": "[0.2.1.1, )"
+        },
+        {
+          "Item1": "BitMiracle.Docotic.Pdf",
+          "Item2": "[5.10.9957, )"
+        },
+        {
+          "Item1": "AForge.Imaging",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "AForge.Neuro",
+          "Item2": "[2.2.5, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "MathNet.Numerics",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "UiPath.WordsToNumbers",
+          "Item2": "[1.0.0-preview, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.21, )"
+        },
+        {
+          "Item1": "System.IO.Compression",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.InteropServices.RuntimeInformation",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.2.20, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.6.0",
+      "Dependencies": []
+    },
+    "UiPath.OmniPage.Activities": {
+      "Id": "UiPath.OmniPage.Activities",
+      "Version": "1.5.0",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.6.0, )"
+        },
+        {
+          "Item1": "UiPath.OmniPage.Bundle",
+          "Item2": "[1.0.2, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.OmniPage.Bundle": {
+      "Id": "UiPath.OmniPage.Bundle",
+      "Version": "1.0.2",
+      "Dependencies": []
+    },
+    "UiPath.Persistence.Activities": {
+      "Id": "UiPath.Persistence.Activities",
+      "Version": "1.1.4",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.FormActivityLibrary.Contracts",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "20.6.1-preview",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.SignalR.Client",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.21, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.2.0, )"
+        }
+      ]
+    },
+    "UiPath.Telemetry.Client": {
+      "Id": "UiPath.Telemetry.Client",
+      "Version": "1.2.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[4.10.0, )"
+        }
+      ]
+    },
+    "UiPath.WordsToNumbers": {
+      "Id": "UiPath.WordsToNumbers",
+      "Version": "1.0.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "FSharp.Core",
+          "Item2": "[4.7.1, )"
+        }
+      ]
+    }
+  },
+  "AllPackages": [
+    {
+      "Package": {
+        "Id": "AForge",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge\\2.2.5\\lib\\AForge.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Genetic",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.genetic\\2.2.5\\lib\\AForge.Genetic.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.genetic\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Imaging",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.imaging\\2.2.5\\lib\\AForge.Imaging.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.imaging\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Math",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.math\\2.2.5\\lib\\AForge.Math.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.math\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Neuro",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.neuro\\2.2.5\\lib\\AForge.Neuro.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\aforge.neuro\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "BitMiracle.Docotic.Pdf",
+        "Version": "5.10.9957"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957\\lib\\net40\\BitMiracle.Docotic.Pdf.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957"
+    },
+    {
+      "Package": {
+        "Id": "ClosedXML",
+        "Version": "0.87.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\closedxml\\0.87.1"
+    },
+    {
+      "Package": {
+        "Id": "CsvHelper",
+        "Version": "2.13.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\csvhelper\\2.13.5"
+    },
+    {
+      "Package": {
+        "Id": "DocumentFormat.OpenXml",
+        "Version": "2.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+    },
+    {
+      "Package": {
+        "Id": "FSharp.Core",
+        "Version": "4.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\fsharp.core\\4.7.1\\lib\\net45\\FSharp.Core.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\fsharp.core\\4.7.1"
+    },
+    {
+      "Package": {
+        "Id": "IvanAkcheurov.NTextCat.Lib",
+        "Version": "0.2.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.Commons.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NClassify.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NTextCat.Lib.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1"
+    },
+    {
+      "Package": {
+        "Id": "MathNet.Numerics",
+        "Version": "4.5.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\mathnet.numerics\\4.5.1\\lib\\net461\\MathNet.Numerics.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\mathnet.numerics\\4.5.1"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.SignalR.Client",
+        "Version": "2.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Rest.ClientRuntime",
+        "Version": "2.3.21"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.OLE.Interop",
+        "Version": "7.10.6071"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Xaml.Behaviors.Wpf",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Newtonsoft.Json",
+        "Version": "11.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json\\11.0.2\\lib\\net45\\Newtonsoft.Json.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\newtonsoft.json\\11.0.2"
+    },
+    {
+      "Package": {
+        "Id": "NPOI",
+        "Version": "2.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\npoi\\2.4.1"
+    },
+    {
+      "Package": {
+        "Id": "Polly",
+        "Version": "7.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\polly\\7.1.0"
+    },
+    {
+      "Package": {
+        "Id": "SharpZipLib",
+        "Version": "1.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\sharpziplib\\1.2.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\sharpziplib\\1.2.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Collections.Immutable",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.collections.immutable\\1.5.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\system.collections.immutable\\1.5.0"
+    },
+    {
+      "Package": {
+        "Id": "System.IO.Compression",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.io.compression\\4.3.0\\lib\\net46\\System.IO.Compression.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\system.io.compression\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Runtime.InteropServices.RuntimeInformation",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\lib\\net45\\System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Threading.Tasks.Dataflow",
+        "Version": "4.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
+    },
+    {
+      "Package": {
+        "Id": "System.ValueTuple",
+        "Version": "4.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\system.valuetuple\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.CefSharpBundle",
+        "Version": "1.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0\\lib\\net452\\CefSharp.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.cefsharpbundle\\1.2.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DocumentProcessing.Contracts",
+        "Version": "1.6.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.6.1\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.6.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DocumentUnderstanding.ML.Activities",
+        "Version": "1.2.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.AiFabricClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.OrchestratorClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1\\lib\\net461\\UiPath.DocumentUnderstanding.ML.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.documentunderstanding.ml.activities\\1.2.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.9.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities\\2.9.0-preview\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities\\2.9.0-preview\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities\\2.9.0-preview\\lib\\net461\\UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.excel.activities\\2.9.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.FormActivityLibrary.Contracts",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.formactivitylibrary.contracts\\1.1.1\\lib\\net461\\UiPath.Form.ActivityLibrary.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.formactivitylibrary.contracts\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.IntelligentOCR.Activities",
+        "Version": "4.7.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Contracts.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.DocumentUnderstanding.Persistence.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.IntelligentOCR.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ClassificationStation.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Data.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Language.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Localization.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.OCR.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.WCF.exe",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.PDF.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.PositionBasedExtraction.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Telemetry.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.Utils.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.Integration.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.ValidationStation.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview\\lib\\net461\\UiPath.SmartData.WPF.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.intelligentocr.activities\\4.7.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "2.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OmniPage.Activities",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.OmniPage.Host32.exe",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.Vision.OmniPage.Core.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0\\lib\\net461\\UiPath.Vision.OmniPage.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.activities\\1.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OmniPage.Bundle",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.ArgTypes.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.CAPI.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2\\lib\\net452\\Nuance.OmniPage.CSDK.Objects.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.omnipage.bundle\\1.0.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Persistence.Activities",
+        "Version": "1.1.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities\\1.1.4\\lib\\net461\\UiPath.Orchestrator.Service.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities\\1.1.4\\lib\\net461\\UiPath.Persistence.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities\\1.1.4\\lib\\net461\\UiPath.Persistence.Activities.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities\\1.1.4\\lib\\net461\\UiPath.Persistence.Orchestrator.Client.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.persistence.activities\\1.1.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "20.6.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\CustomInputForm.exe",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview\\lib\\net461\\UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.system.activities\\20.6.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Telemetry.Client",
+        "Version": "1.2.20"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.telemetry.client\\1.2.20\\lib\\net461\\TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.telemetry.client\\1.2.20"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WordsToNumbers",
+        "Version": "1.0.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0-preview\\lib\\netstandard2.0\\Numsense.dll"
+      ],
+      "Path": "C:\\Users\\v-Isbind\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0-preview"
+    }
+  ]
+}

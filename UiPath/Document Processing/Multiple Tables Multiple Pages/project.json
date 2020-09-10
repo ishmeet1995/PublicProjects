@@ -1,0 +1,39 @@
+{
+  "name": "Document Processing Webinar",
+  "description": "Orchestration Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.2.1]",
+    "UiPath.Excel.Activities": "[2.9.0-preview]",
+    "UiPath.IntelligentOCR.Activities": "[4.7.0-preview]",
+    "UiPath.OmniPage.Activities": "[1.5.0]",
+    "UiPath.Persistence.Activities": "[1.1.4]",
+    "UiPath.System.Activities": "[20.6.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": false,
+    "supportsPersistence": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
