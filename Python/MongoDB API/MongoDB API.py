@@ -11,7 +11,6 @@ class MongoAPI:
         # self.client = MongoClient("mongodb://localhost:27017/")  # When only Mongo DB is running on Docker.
         self.client = MongoClient("mongodb://mymongo_1:27017/")     # When both Mongo and This application is running on
                                                                     # Docker and we are using Docker Compose
-
         database = data['database']
         collection = data['collection']
         cursor = self.client[database]
